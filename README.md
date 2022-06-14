@@ -1,5 +1,6 @@
 ## Anotações Reuniões prof. Bruno
-[![N|Solid](https://www.iconspng.com/uploads/wide-sticky-note.png)](https://fragrant-acoustic-8d1.notion.site/Mem-ria-Reuni-es-Wesley-PHD-01872e68357d4af9bce0dce1ef60445e)
+!['Notion - Anotações - Reuniões'](https://uxwing.com/wp-content/themes/uxwing/download/18-education-school/phd.png)
+
 
 
 # Códigos e arquiteturas desenvolvidas para aprendizagem - P4
