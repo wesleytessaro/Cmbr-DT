@@ -1,5 +1,5 @@
 ## Anotações Reuniões prof. Bruno
-!['Notion - Anotações - Reuniões'](https://uxwing.com/wp-content/themes/uxwing/download/18-education-school/phd.png)
+[Memória](https://fragrant-acoustic-8d1.notion.site/Mem-ria-Reuni-es-Wesley-PHD-01872e68357d4af9bce0dce1ef60445e)
 
 
 
