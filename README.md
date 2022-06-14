@@ -32,5 +32,5 @@ h1 ping h2
 
 
 ### [2] -Topologia-2-Caminhos Estáticos
-
+![](https://github.com/wesleytessaro/Cmbr-DT/blob/main/%5B2%5D%20-Topologia-2-Caminhos%20Est%C3%A1ticos/Caminhos.jpg)
 
