@@ -3,11 +3,11 @@
 
 
 
-# Códigos e arquiteturas desenvolvidas para aprendizagem - P4
+## Códigos e arquiteturas desenvolvidas para aprendizagem - P4
 
 
 
-## [1] - Topologia-1-Estrela. 4 hosts, um switch (usando baseado no exemplo basic)
+### [1] - Topologia-1-Estrela. 4 hosts, um switch (usando baseado no exemplo basic)
 ![](https://raw.githubusercontent.com/wesleytessaro/Cmbr-DT/main/%5B1%5D%20-%20Topologia-1-Estrela/pod-topo/Topologia1.jpg)
 
 #### Como executar
@@ -31,5 +31,6 @@ h1 ping h2
 ```
 
 
+### [2] -Topologia-2-Caminhos Estáticos
 
 
