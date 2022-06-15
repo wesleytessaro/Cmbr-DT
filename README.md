@@ -7,7 +7,7 @@
 
 
 
-### [1] - Topologia-1-Estrela. 4 hosts, um switch (usando baseado no exemplo basic)
+### [1] - Topologia-1-Estrela. 4 hosts, 1 switch
 ![](https://raw.githubusercontent.com/wesleytessaro/Cmbr-DT/main/%5B1%5D%20-%20Topologia-1-Estrela/pod-topo/Topologia1.jpg)
 
 #### Como executar
