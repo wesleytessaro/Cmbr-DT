@@ -64,7 +64,31 @@ Ao abrir, dentro do xterm h1 abrir o send.py para 10.0.3.1
 ```
 
 ### [3] - Tuneis + P4Runtime
-![](https://github.com/wesleytessaro/Cmbr-DT/blob/main/%5B2%5D%20-Topologia-2-Caminhos%20Est%C3%A1ticos/Caminhos.jpg)
+![](https://github.com/wesleytessaro/Cmbr-DT/blob/main/%5B4%5D%20-%20P4Runtime/Esquematico.runtime.png)
 
+
+#### Como executar
+
+Dentro da pasta [3] - P4Runtime
+
+Executar o mininet
+```sh
+sudo make
+```
+
+ex. Testar o ping entre h1 -> h2
+```sh
+h1 ping h2
+```
+
+ex. Testar o ping entre h1 -> h3
+```sh
+h1 ping h3
+```
+
+Em outro terminal, executar o arquivo mycontroller.py. Verificar se as regras foram escritas nos switches
+```sh
+sudo ./mycontroller.py
+```
 
 
