@@ -64,7 +64,7 @@ Ao abrir, dentro do xterm h1 abrir o send.py para 10.0.3.1
 ```
 
 ### [3] - Tuneis + P4Runtime
-![](https://github.com/wesleytessaro/Cmbr-DT/blob/main/%5B4%5D%20-%20P4Runtime/Esquematico.runtime.png)
+![](https://github.com/wesleytessaro/Cmbr-DT/blob/main/%5B3%5D%20-%20P4Runtime/Esquematico.runtime.png)
 
 
 #### Como executar
